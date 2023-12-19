@@ -19,6 +19,10 @@
 		{
 			"Name": "AudioGameplayVolume",
 			"Enabled": true
+		},
+		{
+			"Name": "Soundscape",
+			"Enabled": true
 		}
 	]
 }
